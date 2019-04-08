@@ -10,4 +10,6 @@ function BoardMember (name, homeState, training) {
   this.approve = function() {
     return "You can do that!";
   }
+  
+  
 }
