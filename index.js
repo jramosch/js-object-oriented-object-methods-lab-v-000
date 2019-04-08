@@ -20,6 +20,6 @@ function BoardMember (name, homeState, training) {
   }
   
   this.sayHi = function() {
-    return ``
+    return `Hi, my name is ${this.name}.`
   }
 }
